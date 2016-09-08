@@ -1,5 +1,5 @@
 source 'https://supermarket.chef.io'
 
-cookbook "mysql", git: 'git@github.com:chef-cookbooks/mysql.git'
+cookbook "mysql", git: 'https://github.com/chef-cookbooks/mysql.git'
 
 metadata
